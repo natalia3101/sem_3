@@ -7,3 +7,9 @@
 ![Это яблоки](Apples.jpg)
 
 Some info about apples
+
+
+![Это апельсинки](orange.jpg)\
+
+Вкусненькие
+
