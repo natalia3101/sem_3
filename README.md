@@ -5,3 +5,5 @@
 Добавила еще текст через браузер. some english text in browser.
 
 ![Это яблоки](Apples.jpg)
+
+Some info about apples
